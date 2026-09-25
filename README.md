@@ -1,7 +1,7 @@
 <!-- ASCII HEADER (https://github.com/ajmeese7/readme-ascii) -->
-<pre align="center">
+
   <img src=mikel.png>
-</pre>
+
 
 <!-- TYPING EFFECT -->
 <h3 align="center">
