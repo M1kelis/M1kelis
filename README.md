@@ -26,8 +26,8 @@
 ### 💬 Discord Status
 <!-- DISCORD LANYARD WIDGET (https://github.com/cnrad/lanyard-profile-readme) -->
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
-    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID" alt="Discord Status" />
+  <a href="https://discord.com/users/847897415847772200">
+    <img src="https://lanyard.cnrad.dev/api/847897415847772200" alt="Discord Status" />
   </a>
 </p>
 
