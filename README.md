@@ -1,6 +1,10 @@
 <!-- ASCII HEADER (https://github.com/ajmeese7/readme-ascii) -->
-
-  <img src=mikel.png>
+<style>
+  .name {
+    position: center
+  }
+</style>
+<img class="name" src=mikel.png>
 
 
 <!-- TYPING EFFECT -->
