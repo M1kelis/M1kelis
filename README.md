@@ -23,16 +23,6 @@
 
 ---
 
-### 🎧 Listening To
-<!-- SPOTIFY PROFILE WIDGET (https://github.com/kittinan/spotify-github-profile) -->
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=cwkt2no3ycsg70a40n3atl0tv&cover_image=true&theme=embed&border_radius=15&bar_color=53b14f">
-    <img src="https://spotify-github-profile.custom-api.com/api/spotify" alt="Spotify Currently Playing" />
-  </a>
-</p>
-
----
-
 ### 💬 Discord Status
 <!-- DISCORD LANYARD WIDGET (https://github.com/cnrad/lanyard-profile-readme) -->
 <p align="center">
@@ -52,20 +42,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/YOUR_DISCORD_SERVER_OR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </p>
