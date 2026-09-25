@@ -26,7 +26,7 @@
 ### 🎧 Listening To
 <!-- SPOTIFY PROFILE WIDGET (https://github.com/kittinan/spotify-github-profile) -->
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+  <a href="[https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID](https://open.spotify.com/user/cwkt2no3ycsg70a40n3atl0tv?si=a88da328d9c744c4)">
     <img src="https://spotify-github-profile.custom-api.com/api/spotify" alt="Spotify Currently Playing" />
   </a>
 </p>
