@@ -1,6 +1,6 @@
 <!-- ASCII HEADER (https://github.com/ajmeese7/readme-ascii) -->
 <pre align="center">
-  <img>
+  <img src=mikel.png>
 </pre>
 
 <!-- TYPING EFFECT -->
