@@ -26,7 +26,7 @@
 ### 🎧 Listening To
 <!-- SPOTIFY PROFILE WIDGET (https://github.com/kittinan/spotify-github-profile) -->
 <p align="center">
-  <a href="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cwkt2no3ycsg70a40n3atl0tv&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=cwkt2no3ycsg70a40n3atl0tv&cover_image=true&theme=embed&border_radius=15&bar_color=53b14f">
     <img src="https://spotify-github-profile.custom-api.com/api/spotify" alt="Spotify Currently Playing" />
   </a>
 </p>
