@@ -1,11 +1,6 @@
 <!-- ASCII HEADER (https://github.com/ajmeese7/readme-ascii) -->
 <pre align="center">
-  ___ ___   _   _   ___ _____ ___ _____ 
- / __/ _ \ /_\ | | | __|_   _/ __|_   _|
-| (_| (_) / _ \| |__| _|  | | \__ \ | |  
- \___\___/_/ \_\____|___| |_| |___/ |_|  
-                                         
-                 DEVELOPER & TECH ENTHUSIAST
+  <img>
 </pre>
 
 <!-- TYPING EFFECT -->
@@ -17,16 +12,6 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@your-github-username" alt="Profile Views Moe Counter" />
 </p>
-
----
-
-### 🙋‍♂️ About Me
-
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning and exploring new technologies every day
-- 💬 Ask me about **Web Development & Java/PHP projects**
-- ⚡ Fun fact: **I love customizing my developer workflow & tools**
-- 📫 Reach me at: **your-email@example.com**
 
 ---
 
