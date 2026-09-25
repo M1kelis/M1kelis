@@ -1,11 +1,7 @@
 <!-- ASCII HEADER (https://github.com/ajmeese7/readme-ascii) -->
-<style>
-  .name {
-    position: center
-  }
-</style>
-<img class="name" src=mikel.png>
-
+<pre align="center">
+  <img class="name" src=mikel.png>
+</pre>  
 
 <!-- TYPING EFFECT -->
 <h3 align="center">
