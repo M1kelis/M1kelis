@@ -33,6 +33,12 @@
 
 ---
 
+<a href="https://par.karafa.net"><img src="assets/planride.svg" width="100%" alt="Plan&Ride, a free open-source app for Slovak buses: live departures, connection planner and bus tracking."></a>
+
+A friend and I built **[Plan&Ride](https://par.karafa.net)** because checking a Slovak bus shouldn't take three websites. It shows live departures from any stop, plans connections and tracks where your bus is right now. It's free and open source.
+
+---
+
 ### 📊 GitHub Statistics
 
 <p align="center">
